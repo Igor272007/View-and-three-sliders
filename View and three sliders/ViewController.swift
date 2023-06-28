@@ -11,9 +11,23 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        //View
+    //    viewColor.layer.cornerRadius = 10
+        
+        
+        
     }
 
-
+//    {
+//        viewColor.backgroundColor = viewColor.backgroundColor?.withAlphaComponent(CGFloat(redSlider.value))
+//    }
+//
+//    {
+//        viewColor.backgroundColor = viewColor.backgroundColor?.withAlphaComponent(CGFloat(greenSlider.value))
+//    }
+//
+//   {
+//    }
 }
 
